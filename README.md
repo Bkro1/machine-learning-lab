@@ -205,6 +205,4 @@ jupyter notebook
 
 # Author
 
-**Your Name**
-
-Data Scientist | Machine Learning Engineer | AI Engineer
+**Brandol**
