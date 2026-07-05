@@ -1,4 +1,4 @@
-# Machine Learning Applications with PCA
+# Machine Learning Applications
 
 ## Overview
 
