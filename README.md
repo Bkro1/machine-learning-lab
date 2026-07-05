@@ -161,13 +161,13 @@ machine-learning-pca-lab/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/machine-learning-pca-lab.git
+git clone https://github.com/Bkro1/machine-learning-lab.git
 ```
 
 Navigate to the project:
 
 ```bash
-cd machine-learning-pca-lab
+cd machine-learning-lab
 ```
 
 Install dependencies:
